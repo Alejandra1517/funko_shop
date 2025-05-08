@@ -1,6 +1,4 @@
 import { Routes, Link, Outlet } from 'react-router-dom';
-// import AdminProducts from './AdminProducts';
-// import AdminUsers from './AdminUsers';
 
 function AdminDashboard() {
   return (
